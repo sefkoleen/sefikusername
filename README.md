@@ -1,6 +1,6 @@
-Founder at HiSphere.io |
+    Founder at HiSphere.io |
 Inspiring a decentralized world through innovation and code 🧑🏼‍🚀 |
-📧 sefikkulin113@protonmail.com
+    📧 sefikkulin113@protonmail.com
 
 <!---
 sefikusername/sefikusername is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
