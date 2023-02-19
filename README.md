@@ -1,5 +1,5 @@
-Founder at HiSphere.io
-Inspiring a decentralized world through innovation and code 🧑🏼‍🚀
+Founder at HiSphere.io |
+Inspiring a decentralized world through innovation and code 🧑🏼‍🚀 |
 📧 sefikkulin113@protonmail.com
 
 <!---
