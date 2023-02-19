@@ -1,3 +1,9 @@
+Inspiring a decentralized world through innovation and code 🧑🏼‍🚀 | Founder at HiSphere.io
+📧
+'''shell
+sefikkulin113@protonmail.com
+'''
+
 - 👋 Hi, I’m @sefikUsername
 - 👀 I’m interested in Web3 / AI development...
 - 🌱 I’m currently learning Solidity / Hardhat...
