@@ -1,4 +1,4 @@
-    Founder | HiSphere.io
+    Co-Founder | HiSphere.io
 
 Inspiring a decentralized world through innovation and code 👾
 
